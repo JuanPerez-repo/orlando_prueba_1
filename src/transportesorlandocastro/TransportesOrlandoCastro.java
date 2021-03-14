@@ -21,6 +21,7 @@ static ArrayList<MedioTransporte> medios = new ArrayList<MedioTransporte>();
             //segundo comentario por parte del polaco
             //otro comentario mas
             // the soviet union has entered in the chat 
+            // the nazis has left to the chat.
             op=Integer.parseInt(JOptionPane.showInputDialog("Menu: \n\n"
                     + "1. Añadir bus\n"
                     + "2. Añadir moto\n"
