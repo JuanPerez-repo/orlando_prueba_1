@@ -18,6 +18,7 @@ static ArrayList<MedioTransporte> medios = new ArrayList<MedioTransporte>();
         do{
             //comentario despues de agregar del primer push xdddddd
             //segundo comentario, aqui hago un pull
+            //segundo comentario por parte del polaco
             op=Integer.parseInt(JOptionPane.showInputDialog("Menu: \n\n"
                     + "1. Añadir bus\n"
                     + "2. Añadir moto\n"
